@@ -7,20 +7,20 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
+    fullname: 'Babacar NDIAYE', // ←  Start by adding your name!
     title: 'My personal site!',
-    occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
+    occupation: 'Fullstack Developer',
+    location: 'Liberté 6, Dakar',
     bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
+    email: 'babsco95@gmail.com',
     twitter: 'yourTwitter',
     linkedin: 'your-linkedin-name',
-    instagram: 'yourInsta',
+    instagram: 'babs__beats',
     facebook: 'your-facebook-name',
 
     /**
